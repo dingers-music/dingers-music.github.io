@@ -18,6 +18,10 @@ album_art:  assets/images/lil_boat.jpg
 ---
 ```
 
+Also, we encourage you to embed audio players
+from Spotify or Apple Music, or from YouTube
+when reviewing a music video.
+
 ## Guidelines
 - Use a maximum text width of 80 characters for paragraphs
 - File names have the format `YYYY-MM-DD-name-here.md`
