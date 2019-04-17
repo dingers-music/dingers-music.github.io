@@ -4,6 +4,7 @@ title:      on Lil Yachty - Minnesota
 author:     Ming Li
 date:       2017-10-08
 categories: lil yachty
+album_art: assets/images/lil_boat.jpg
 ---
 
 Traditional hip hop fans might dismiss Lil Yachty’s
@@ -90,4 +91,3 @@ evolution.
 
 [^heat]: <https://www.urbandictionary.com/define.php?term=packing%20heat>
 [^history]: T.I., for example, was a real drug dealer and was [arrested many times as a teenager](https://en.wikipedia.org/wiki/T.I.#cite_note-spotlight-10).
-

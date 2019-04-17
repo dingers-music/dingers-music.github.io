@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "I Can't Even See: Lookin' by Playboi Carti"
+title:  "I Can't Even See: Lookin by Playboi Carti"
 author: Rahul Tirumalareddy
 date:   2019-04-15
 categories: playboi carti
+album_art: assets/images/playboi_carti.jpg
 ---
 
 Soundcloud rap is a label that, for better or worse, is slowly starting to fade
@@ -25,11 +26,9 @@ Western popular musical form. Determining what era a Carti song is from is as
 simple as listening to the track, as with every year, Carti continues to push
 further and further into uncharted musical territory.
 
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/lookin-feat-lil-uzi-vert/1224307213?i=1224307239&app=music"></iframe>
 
-[Lookin' - Playboi Carti](https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z)
-
-
-The sonic equivalent to the first picture of a black hole, *Lookin’* wastes no
+The sonic equivalent to the first picture of a black hole, *Lookin* wastes no
 time in discussing the crux of the matter with its opening line (don’t worry if
 you missed it the first time; it comprises perhaps half the song)
 
@@ -38,7 +37,7 @@ you missed it the first time; it comprises perhaps half the song)
 Making clear his disdain for the gentlemen around him, Carti issues a cautionary
 tale to choose one’s friends carefully to the backdrop of an oscillating,
 reverbing synth. Carti’s lyrics, using less unique words than a Dr. Seuss novel,
-complement the trance-inducing instrumental. In fact, *Lookin’* blurs the line
+complement the trance-inducing instrumental. In fact, *Lookin* blurs the line
 between a Soundcloud classic and spiritual meditative music meant to elevate the
 human condition.
 
@@ -82,6 +81,5 @@ in his pursuit to enjoy himself, misfortune be damned.
 I could go on and on discussing this cornerstone of trap canon, but to be
 completely honest, no amount of written exposition can do this song justice.
 Words fail to capture the beauty and sublime found within Carti’s tour de force.
-What, then, is a fan supposed to do to fully appreciate *Lookin’*? That, dear
+What, then, is a fan supposed to do to fully appreciate *Lookin*? That, dear
 reader, is to *listen*.
-

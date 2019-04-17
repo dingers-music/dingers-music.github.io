@@ -9,7 +9,7 @@ and navigating to `localhost:4000`.
 
 Write your article in [kramdown](https://kramdown.gettalong.org/).
 Add your writeup to `_posts/`
-with the front matter
+with the front matter and a 500x500 cover art under `assets/images`.
 ```
 ---
 layout:     post
