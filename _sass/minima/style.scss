@@ -44,6 +44,12 @@ dd {
   display: block;
 }
 
+iframe {
+  margin: 0 auto;
+  padding-bottom: 20px;
+  display: block;
+}
+
 @media screen and (max-width: 500px) {
   .album_art {
     visibility: hidden;
