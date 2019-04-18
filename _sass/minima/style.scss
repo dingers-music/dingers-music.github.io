@@ -1,3 +1,15 @@
+:root {
+    --accent-color: firebrick;
+}
+
+.site-header {
+    border-top: 5px solid var(--accent-color);
+}
+
+a, a:visited {
+    color: var(--accent-color);
+}
+
 .entry {
   margin-left: -20px;
   margin-right: -20px;
@@ -36,9 +48,7 @@
     visibility: hidden;
     display: none;
   }
-}
 
-@media screen and (max-width: 500px) {
   .preview {
     width: 100%
   }
