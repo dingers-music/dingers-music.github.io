@@ -41,7 +41,7 @@ you missed it the first time; it comprises perhaps half the song)
 
 Making clear his disdain for the gentlemen around him, Carti issues a cautionary
 tale to choose one’s friends carefully to the backdrop of an oscillating,
-reverbing synth. Carti’s lyrics, using less unique words than a Dr. Seuss novel,
+reverbing synth. Carti’s lyrics, using fewer unique words than a Dr. Seuss novel,
 complement the trance-inducing instrumental. In fact, *Lookin* blurs the line
 between a Soundcloud classic and spiritual meditative music meant to elevate the
 human condition.
