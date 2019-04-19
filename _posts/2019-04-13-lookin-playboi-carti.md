@@ -68,7 +68,7 @@ ornamentation. One particularly clever line goes as:
 > Told the girl I do not wanna fuck told her just lick, woo  
 > Lick, lick, lick, ohh, ohh, ohh.  
 
-In its first occurrence, “lick” is a colloquialism for an easy source of money,
+In its first occurrence, “lick”[^lick] is a colloquialism for an easy source of money,
 particularly through robbing. However, he later uses the word to describe
 non-committal oral sex, a clever mix up.  Surely there’s no more to be gleaned
 from that verse, right? Wrong. Take a look again carefully; doesn’t something
@@ -79,7 +79,7 @@ individual such as Mr. Vert exuberantly proclaim that he is an easy source of
 money to anyone who would dare divest from him? Indeed, in both classic and
 modern hip-hop, a common theme is an MC’s desire to protect his hard-earned
 wealth and personal property. However, Mr. Vert subverts this capitalistic
-expectation, and almost invites the genteel of the streets to “pull up” on him.
+expectation, and almost invites the gentry of the streets to “pull up” on him.
 This further reinforces his persona as a hedonistic, gung-ho character, singular
 in his pursuit to enjoy himself, misfortune be damned.
 
@@ -88,3 +88,5 @@ completely honest, no amount of written exposition can do this song justice.
 Words fail to capture the beauty and sublime found within Carti’s tour de force.
 What, then, is a fan supposed to do to fully appreciate *Lookin*? That, dear
 reader, is to *listen*.
+
+[^lick]: <https://www.urbandictionary.com/define.php?term=lick>
