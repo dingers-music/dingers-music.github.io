@@ -1,13 +1,22 @@
 :root {
-    --accent-color: firebrick;
+  --accent-color: firebrick;
 }
 
 .site-header {
-    border-top: 5px solid var(--accent-color);
+  border-top: 5px solid var(--accent-color);
 }
 
 a, a:visited {
-    color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  font-style: italic;
+  margin-inline-start: 40px;
 }
 
 .entry {
