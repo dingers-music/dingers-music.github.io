@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Testing
-date:   2019-04-15 19:29:34 -0700
 description: Just for testing
 categories: testing
 ---
