@@ -1,13 +1,5 @@
-:root {
-  --accent-color: firebrick;
-}
-
 .site-header {
-  border-top: 5px solid var(--accent-color);
-}
-
-a, a:visited {
-  color: var(--accent-color);
+  border-top: 5px solid $brand-color;
 }
 
 dt {
