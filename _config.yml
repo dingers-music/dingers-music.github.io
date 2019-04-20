@@ -1,6 +1,8 @@
 title: dingers
 description: for the music
 
+google_analytics: UA-89975046-2
+
 show_excerpts: true
 
 markdown: kramdown
