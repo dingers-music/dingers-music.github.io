@@ -2,7 +2,7 @@
 layout:     post
 title:      "I Can't Even See: Lookin by Playboi Carti"
 author:     Rahul Tirumalareddy
-date:       2019-04-15
+date:       2019-04-13
 categories: playboi carti
 album_art:  assets/images/playboi_carti.jpg
 ---
@@ -33,9 +33,10 @@ allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 src="https://embed.music.apple.com/us/album/lookin-feat-lil-uzi-vert/1224307213?i=1224307239&app=music">
 </iframe>
 
-The sonic equivalent to the first picture of a black hole, *Lookin* wastes no
-time in discussing the crux of the matter with its opening line (don’t worry if
-you missed it the first time; it comprises perhaps half the song)
+The sonic equivalent to the first picture of a black hole,
+[*Lookin*](https://youtu.be/2EZdak10ypY) wastes no time in discussing the crux
+of the matter with its opening line (don’t worry if you missed it the first
+time; it comprises perhaps half the song)
 
 > Look at these n[\*\*]s.
 
